@@ -1,0 +1,13 @@
+Problem Statement: Detect Credit Card Fraud
+Data Set: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+You can use: Python Notebook or KNIME
+
+we are looking to cover end to end ML life cycles.
+
+(1) Exploratory Data Analysis
+(2) Data Quality/Imputation etc
+(3) Handle data unbalance issue.
+(4) Develop Classification model using Random Forest (you can use Gradient Boosting or any other implementation)
+(5) Validation mechanism (you can use cross validation, AUC, confusion matrix ect).
+(6) Persist model
